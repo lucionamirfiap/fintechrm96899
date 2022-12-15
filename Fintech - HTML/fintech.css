@@ -1,0 +1,47 @@
+h1{
+    color: #61B136;
+
+
+    font-family: Al Bayan;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 38px;
+}
+
+h2{
+    color:#2C5460;
+    height: 29px;
+    width: 284px;
+    left: 14px;
+    top: 84px;
+    border-radius: nullpx;
+    font-family: Al Bayan;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+h3{
+    color:#2C5460;
+    height: 29px;
+    width: 284px;
+    left: 14px;
+    top: 432px;
+    border-radius: nullpx;
+    font-family: Al Bayan;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+h4{
+    height: 64px;
+width: 320px;
+left: 0px;
+top: 504px;
+border-radius: 0px;
+
+}
